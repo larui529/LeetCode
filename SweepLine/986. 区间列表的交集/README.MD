@@ -10,5 +10,10 @@
 
 最后返回result即可，时间复杂度O(M+N),M是A的长度，N是B的长度。
 
+其他扫描线的题目
+[56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
+[57. 插入区间](https://leetcode-cn.com/problems/insert-interval/)
+[732. 我的日程安排表 III](https://leetcode-cn.com/problems/my-calendar-iii/)
+
 [LeetCode Link](https://leetcode-cn.com/problems/interval-list-intersections/)
-[GitHub Link]()
+[GitHub Link](https://github.com/larui529/LeetCode/tree/master/SweepLine/986.%20%E5%8C%BA%E9%97%B4%E5%88%97%E8%A1%A8%E7%9A%84%E4%BA%A4%E9%9B%86)
